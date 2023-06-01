@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ameray
-- 👀 I’m interested in Data sciences, remote sensing, forestry and agriculture
-- 🌱 I’m currently learning about Forest carbon budget modelling and projection under climate change using Landis-II and CBM-CFS3
+- 👀 I’m interested in Data sciences, IA and remote sensing application in forestry and agriculture
+- 🌱 I’m currently learning about Forest carbon budget modelling and projection under climate change using Landis-II and CBM-CFS3.
 - 📫 How to reach me :amea02@uqat.ca/ ameray.iav@gmail.com
 
 <!---
